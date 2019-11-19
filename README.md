@@ -1,15 +1,26 @@
 # 기술경력서
-## profile
+## 프로필(Profile)
 
-**이름(Name)**<br>
-+ 박현호(Park HyunHo)<br>
+- **이름(Name)**<br>
+  - 박현호(Park HyunHo)<br>
 
-**직무경력(Career)**
-+ 트레블쥬(TravelZoo)
-+ 2017.01 ~ 12(약 12개월)
-+ 안드로이드 앱 개발
+- **직무경력(Career)**
+  - 트레블쥬(TravelZoo)
+  - 2017.02 ~ 12(약 12개월)
+  - 안드로이드 앱 개발
 
-## Skill
+## 기술(Skill)
 
-**사용 가능 언어(Programing Language)**
-+ Kotlin, Java, PHP, HTML, CSS
+- **사용언어(Programing Language)**
+  - Java, Kotlin, PHP, HTML, CSS, MySQL
+
+- **플랫폼(Platform)**
+  - Android, AWS(EC2) 
+
+- **시스템(System)**
+  - Windows, Linux Ubuntu
+  
+- **사용도구(Tool)**
+  - Android Studio, Atom, Sublime Text
+  
+  ## 프로젝트(Project)
