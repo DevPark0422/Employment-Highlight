@@ -1,4 +1,4 @@
-# 기술경력서
+# 기술경력서(Employment Highlight)
 ## 프로필(Profile)
 
 - **이름(Name)**<br>
