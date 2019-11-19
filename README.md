@@ -24,4 +24,7 @@
   - Android Studio, Atom, Sublime Text
   
 ## 프로젝트(Project)
-     
+
+
+|  <a href="https://www.nocutnews.co.kr/news/4864096"><img src="/images/travelStyle_news.png" width="300px" height="350px" title="여행사람 기사" alt="여행사람 기사"></img></a> | 글씨 |
+| ----- | ---- |
