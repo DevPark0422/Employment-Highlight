@@ -29,3 +29,6 @@
 | <a href="https://www.nocutnews.co.kr/news/4864096" target="_blank"><img src="/images/travelStyle_news.png" width="300px" height="370px" title="여행사람 기사" alt="여행사람 기사"></img></a> | 안드로이드 앱 : 여행사람<br>개발 기간 : 2017.05 ~ 09월(약 4개월)<br>담당 업무: 1인 개발(안드로이드 + 서버)<br><br>[요약 설명]<br>소셜네트워킹을 기반으로 여행자들이 동행 찾기 및 여행 일정과 실시간 후기 등을 공유하는 소셜 여행 플랫폼<br><br>[주요 기능]<br>- 게시물 CRUD(작성, 읽기, 수정, 삭제) 기능<br>- 여행자 매칭 알림 기능(FCM)<br>- 그룹 채팅 기능(Sendbird API)|
 | ----- | :---- |
 
+|![여행사람 글쓰기](/images/01_feed_write.gif)| ![여행사람 여행일정 등록](/images/02_create_chat.gif) |![여행사람 채팅](/images/03_chating.gif)| ![여행사람 전체보기](/images/04_comment.gif) |
+| ----- | ---- | ----- | ---- |
+
