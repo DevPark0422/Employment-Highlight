@@ -46,5 +46,5 @@
 | ![게시물작성화면](/images/09_feed_write.png) | ![채팅방생성화면](/images/10_create_chat.png) | ![채팅화면](/images/11_chating.png) | ![게시물상세화면](/images/12_detail.png) |
 
 ---
-## 고찰(Consideration)
+
 
